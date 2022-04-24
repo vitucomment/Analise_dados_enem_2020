@@ -1,0 +1,8 @@
+MICRODADOS_ENEM_2020.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/database_escolas_nao_informada.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/database_escolas_privadas.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/database_escolas_publicas.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/database_medias_gerais.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/MICRODADOS_COMPLETO.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/MICRODADOS_TRATADOS_COLUNAS.csv filter=lfs diff=lfs merge=lfs -text
+DADOS/MICRODADOS_TRATADOS_COLUNAS_LINHAS.csv filter=lfs diff=lfs merge=lfs -text
